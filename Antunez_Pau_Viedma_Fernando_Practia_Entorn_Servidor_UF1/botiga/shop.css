@@ -1,0 +1,29 @@
+#title{
+    font-size:50px;
+    color: orange;
+    padding: 20px;
+    text-align: center;
+}
+
+#imagenes{
+    margin-left: 220px;
+}
+
+.img{
+    padding: 20px;
+}
+
+.info{
+    color: black;
+    text-align: center;
+}
+
+.info2{
+    color: black;
+    margin-top: -30px;
+    text-align: center;
+}
+
+#form1{
+    text-align: center;
+}
